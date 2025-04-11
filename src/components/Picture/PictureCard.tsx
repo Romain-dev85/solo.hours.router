@@ -5,7 +5,7 @@ interface pictureCardProps {
         imgSrc?: string;
         id: string;
         author: string;
-    }
+    };
 }
 
 

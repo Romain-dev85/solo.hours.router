@@ -1,0 +1,20 @@
+.headerclass {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.headerclass img {
+    width: 200px;
+    border-radius: 20px;
+}
+
+.headerclass nav {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.headerclass nav a {
+    text-decoration: none;
+}
